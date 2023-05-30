@@ -1,1 +1,1 @@
-## Learning proper machine learning project ##
+## A Simple Modular Machine Learning Project ##
